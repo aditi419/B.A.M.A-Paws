@@ -1,0 +1,327 @@
+body {
+    text-align: center;
+}
+
+h1 {
+
+    background-color: #4d57e8;
+    color: #ffffff;
+    margin-top: 30;
+    font-family: inherit;
+    height: 90px;
+    font-weight: bold;
+
+
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+}
+
+#S1 {
+    background-color: #4d57e8;
+}
+
+
+
+.hh {
+    font-family: serif;
+    font-size: 30px;
+    color: #4d57e8;
+    font-weight: bolder;
+    font-size: 40px;
+    margin-top: 50
+}
+
+#check1 {
+    width: 60px;
+    margin-right: 400px;
+    height: 70
+}
+
+#leftside {
+    width: 150px;
+    background-color: #4d57e8;
+    height: 600px;
+    margin-top: -12;
+
+
+}
+
+h6 {
+    font-size: 20;
+    font-weight: bold;
+    margin-top: -10
+}
+
+h8 {
+    font-size: 20;
+    font-weight: bold;
+    margin-top: -100
+}
+
+h6 {
+    font-size: 20;
+    font-weight: bold;
+    margin-top: -1;
+}
+
+h4 {
+    font-size: 50;
+    margin-top: -65
+}
+
+h5 {
+    font-size: 25;
+    margin-top: -65
+}
+
+p {
+    font-size: 20px;
+
+    color: #ffffff;
+    margin-top: -20;
+}
+
+#P1 {
+    background-color: #4d57e8;
+    position: relative;
+    top: 50px;
+    font-family: Roboto;
+    line-height: 1.7;
+    margin-top: 30;
+    font-weight: bold;
+    font-size: 20px;
+    margin-right: 25
+}
+
+#S2 {
+    background-color: #4d57e8;
+    margin-top: -500;
+    font-family: sans-serif;
+}
+
+
+#Q1 {
+    color: #000000;
+    margin-top: 10;
+}
+
+#check1 {
+    margin-top: 20;
+    margin-right: 300px;
+    width: 110;
+}
+
+#check2 {
+    width: 110;
+
+    margin-left: -240;
+}
+
+#FIXFONT {
+    font-size: 80px;
+    color: #ffffff
+}
+
+check3 {
+
+    width: 30px;
+}
+
+#Q2 {
+    color: #000000;
+    margin-top: 10;
+}
+
+#Q3 {
+    color: #000000;
+    margin-top: 10;
+}
+
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    position: fixed;
+    top: 60px;
+
+
+    z-index: 10;
+    cursor: pointer;
+
+}
+
+.links:hover {
+    background-color: dodgerblue;
+}
+
+.links {
+    float: left;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-top: 60px;
+    margin-left: -170px;
+    margin-right: 250
+}
+
+
+.Question {
+    color: black;
+    margin-top: 100;
+    font-size: 30px;
+    font-family: inherit;
+    font-weight: bold;
+}
+
+.Answer {
+    color: black;
+    margin-top: 10;
+    font-size: 25
+}
+
+.BAW {
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    width: 100px;
+    height:
+
+}
+
+.Profile {
+    border-radius: 200px;
+    width: 100px;
+    height: 90px;
+    margin-bottom:
+}
+
+#MyCarousel {
+    background-color: #b0e0e6;
+    height: 400px;
+}
+
+#MyCarousel img {
+    height: 300px;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+.Checks {
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: -30px;
+    margin-left:
+}
+
+.images {
+    width: 70px;
+    margin-right: 390;
+    margin-bottom: -20
+}
+
+.reasons {
+    font-size: 20px;
+    color: black;
+    margin-bottom: 40
+}
+
+
+#BAW {
+    background-color: #4d57e8;
+    margin-top: 50px;
+    font-size: 70px;
+    color: #ffffff
+}
+
+#EmailUs {
+    color: black;
+    margin-top: 40;
+
+}
+
+#ContactCSS {
+    color: #ffffff;
+    font-size: 70px;
+    height: 500;
+    font-weight: bold;
+}
+
+.Location {
+    width: 400;
+    height: 270;
+    margin-top: -280;
+    margin-left: 500
+}
+
+.TheContactButtons {
+    background-color: #ffffff;
+    width: 400;
+    height: 270;
+    margin-top: -400;
+    margin-left: 100;
+}
+
+.AnyQ {
+    color: black;
+    font-size: 40;
+    margin-bottom: -10;
+    font-weight: bold;
+
+}
+
+.Explain {
+    color: black;
+    font-size: 20;
+    font-weight: bold;
+}
+
+.EmailWords {
+    color: black;
+    font-size: 20;
+    font-weight: bold;
+}
+
+
+.BPEmail {
+    color: #ffffff
+}
+
+iframe {}
+
+.BAWText {
+    color: #ffffff;
+    background-color: #4d57e8;
+    margin-top: -20;
+    font-weight: bold;
+    font-size: 23
+}
+
+.DogSit {
+    margin-left: 500px
+}
+
+h2 {
+    background-color: #ffffff;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.Walking {
+    margin-left: -100px;
+}
+
+.testimonial {
+    color: #ffffff;
+    margin-top: 50;
+    font-size: 70px;
+    font-weight: bold;
+}
